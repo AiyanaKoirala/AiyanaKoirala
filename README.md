@@ -75,7 +75,7 @@ I enjoy turning complex problems into clean, usable products.
 
 ## 📫 Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aiyana-koirala) ← *(update with your actual LinkedIn URL)*
+- 💼 https://www.linkedin.com/in/aiyana-k-782a0716b/?skipRedirect=true
 - 📧 aiyanakoirala8@gmail.com
 
 ---
