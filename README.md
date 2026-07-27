@@ -1,5 +1,4 @@
 # Hi, I'm Aiyana Koirala 👋
-**QA Engineer · AI/ML Developer · Flutter · Python · Django**  
 📍 Pokhara, Nepal &nbsp;|&nbsp; 📧 aiyanakoirala8@gmail.com &nbsp;|&nbsp; 🌐 Open to remote work
 
 ---
